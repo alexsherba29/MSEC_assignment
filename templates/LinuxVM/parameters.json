@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_AsVM_name": {
+            "value": null
+        },
+        "disks_AsVM_OsDisk_1_98850f83725146c3868c095c5040b650_externalid": {
+            "value": null
+        },
+        "networkInterfaces_asvm80_z1_externalid": {
+            "value": null
+        }
+    }
+}
